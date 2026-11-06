@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        //try {
+        //try2 {
         System.out.print("Hi! ");
 
         int score = input.nextInt();  // may cause InputMismatchException
